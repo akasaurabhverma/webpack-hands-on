@@ -1,0 +1,26 @@
+{
+  "name": "webpack-hands-on",
+  "version": "1.0.0",
+  "description": "This project gives the hands on experience of webpack bundler for beginners",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akasaurabhverma/webpack-hands-on.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Saurabh Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akasaurabhverma/webpack-hands-on/issues"
+  },
+  "homepage": "https://github.com/akasaurabhverma/webpack-hands-on#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
